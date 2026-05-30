@@ -16,9 +16,9 @@ For the original console-based modular version, see [Omega Calculator 10.0](http
 
 Three editions are included, each tailored to a specific screen size:
 
-- `main_mobile.py` — Mobile (360×640)
-- `main_tablet.py` — Tablet (720×1280)
-- `main_desktop.py` — Desktop (1024×768)
+- `Mobile Edition.py` — Mobile (360×640)
+- `Tablet Edition.py` — Tablet (720×1280)
+- `Desktop Edition.py` — Desktop (1024×768)
 
 ---
 
@@ -40,7 +40,7 @@ Three editions are included, each tailored to a specific screen size:
 
 ```bash
 pip install kivy
-python main_desktop.py
+python Desktop Edition.py
 ```
 
 ---
